@@ -86,7 +86,7 @@ Meu nome é Davi dos Santos Nascimento, tenho 18 anos e moro em SP, concluí meu
 
 <p>
   <img
-      width="520"
+      width="400"
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -95,6 +95,7 @@ Meu nome é Davi dos Santos Nascimento, tenho 18 anos e moro em SP, concluí meu
   />
 
 <img 
+          width="350"
       align="left" 
       alt="GitHub Stats" 
       height="200" 
