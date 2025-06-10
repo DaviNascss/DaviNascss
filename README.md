@@ -1,4 +1,4 @@
-# Davi Nascimento 👩🏻‍💻
+# Davi Nascimento 
 
 **`Desenvolvedora Frontend`**
 
